@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(65, 24, 254), rgb(10, 210, 245)) repeat scroll 0% 0%;
+}
+
+button {
+	cursor: pointer;
+}
